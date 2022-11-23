@@ -1,0 +1,8 @@
+body {
+    background-color: #EEEEEE;
+}
+hr {
+    border-style: dashed none none;
+    border-color: #212121;
+    border-width: 2px;
+}     
